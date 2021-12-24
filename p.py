@@ -1,1 +1,1 @@
-print "testpassed"
+print ("testpassed")
